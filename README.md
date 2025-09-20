@@ -1,6 +1,6 @@
 # Master-Thesis
 
-Cette base de données contient 2 220 tweets collectés et annotés dans le cadre d’un mémoire de maîtrise sur le thème de la détection de la désinformation en contexte électoral québécois. Les tweets ont été récoltés sur Twitter/X entre le 28 août et le 3 octobre 2022, soit pendant la campagne électorale provinciale.
+La base de données data_QC contient 2 220 tweets collectés et annotés dans le cadre d’un mémoire de maîtrise sur le thème de la détection de la désinformation en contexte électoral québécois. Les tweets ont été récoltés sur Twitter/X entre le 28 août et le 3 octobre 2022, soit pendant la campagne électorale provinciale.
 
 Chaque tweet a été vérifié manuellement à l’aide de :
 
@@ -17,7 +17,7 @@ Chaque tweet est associé à une étiquette d'authenticité suivante:
 Citation: Thibault, Camille. 2025. « Évaluation de grands modèles de langage en IA pour lutter contre la désinformation électorale au Québec ». Mémoire de M.Sc., Université de Montréal.
 
 -------------------------------------------------------------------
-This dataset contains 2,220 tweets collected and annotated as part of a master’s thesis on disinformation detection in the context of the Quebec electoral campaign. The tweets were collected on Twitter/X between August 28 and October 3, 2022, during the provincial election campaign.
+Data_QC contains 2,220 tweets collected and annotated as part of a master’s thesis on disinformation detection in the context of the Quebec electoral campaign. The tweets were collected on Twitter/X between August 28 and October 3, 2022, during the provincial election campaign.
 
 Each tweet was manually verified using:
 
