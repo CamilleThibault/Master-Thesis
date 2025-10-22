@@ -1,4 +1,4 @@
-# data_QC
+# QC2022Désinfo
 
 ## Description de la base de données
 La base de données data_QC contient 3 051 tweets collectés et annotés dans le cadre d’un mémoire de maîtrise sur le thème de la détection de la désinformation en contexte électoral québécois. Les tweets ont été récoltés sur Twitter/X entre le 28 août et le 3 octobre 2022, soit pendant la campagne électorale provinciale.
