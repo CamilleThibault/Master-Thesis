@@ -17,7 +17,7 @@ Chaque tweet est associé à une étiquette d’authenticité, répartie dans de
 La variable trinary_label propose une classification à trois niveaux permettant de maintenir la distinction entre la désinformation manifeste, l’information factuelle et les cas d’incertitude:
  - Vrai: la majorité des informations contenues dans le tweet est conforme à la réalité.
  - Faux: la majorité des informations contenues dans le tweet est inexacte ou trompeuse.
- - Non-vérifié: le tweet ne contient pas assez d’éléments factuels pour être évalué, correspond à une question ouverte, ou ne peut être validé par aucune source.
+ - Non-vérifié: le tweet est considéré comme non vérifiable lorsqu’il ne contient pas suffisamment d’informations pour en évaluer l’authenticité, lorsqu’il s’agit d’une question ouverte ou encore lorsqu’aucune source n’a permis de confirmer ou d’infirmer son contenu.
 
 *binary_label* <br>
 La variable binary_label correspond à une version simplifiée de la précédente, réduisant la classification à deux catégories:
