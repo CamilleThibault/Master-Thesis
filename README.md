@@ -25,7 +25,7 @@ La variable binary_label correspond à une version simplifiée de la précédent
  - Faux: la majorité des informations contenues dans le tweet est inexacte ou trompeuse.
 
 ## Citation ##
-Citation: Thibault, Camille. 2025. « Évaluation de grands modèles de langage en IA pour lutter contre la désinformation électorale au Québec ». Mémoire de M.Sc., Université de Montréal.
+Citation: Thibault, Camille. 2025. « IA et campagne électorale: vers une détection automatisée de la désinformation au Québec ». Mémoire de M.Sc., Université de Montréal.
 
 -------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ The binary_label variable is a simplified, two-class version of the previous lab
  - False: the majority of information in the tweet is inaccurate or misleading.
 
 ## Citation ##
-Citation: Thibault, Camille. 2025. « Évaluation de grands modèles de langage en IA pour lutter contre la désinformation électorale au Québec ». M.Sc. thesis, Université de Montréal.
+Citation: Thibault, Camille. 2025. « IA et campagne électorale: vers une détection automatisée de la désinformation au Québec ». M.Sc. thesis, Université de Montréal.
